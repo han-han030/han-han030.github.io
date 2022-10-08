@@ -34,7 +34,7 @@ ShowPostNavLinks: true
 #    appendFilePath: false # to append file path to Edit link
 ---
 
-`大部分的工具都是給OBS用的，不知道Twitch Studio或StreamLabs可不可以用`
+**大部分的工具都是給OBS用的，不知道Twitch Studio或StreamLabs可不可以用**
 
 
 ## YT聊天室
