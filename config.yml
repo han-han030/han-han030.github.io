@@ -1,4 +1,4 @@
-baseURL: "<han-han030.github.io>" #等等GitHub庫的網址
+baseURL: "https://han-han030.github.io" #等等GitHub庫的網址
 title: 憨憨很憨憨 #網站標題
 paginate: 5
 defaultContentLanguage: zh-tw
