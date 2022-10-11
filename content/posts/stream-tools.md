@@ -39,8 +39,8 @@ ShowPostNavLinks: true
 
 ## YT聊天室
 ### 字體+特效
-<details>
-  <summary>Noto Sans Traditional Chinese 淡入滑進</summary>
+
+Noto Sans Traditional Chinese 淡入滑進
   ```css=
   @import url("https://fonts.googleapis.com/css?family=Noto Sans TC");
 
@@ -276,9 +276,9 @@ ShowPostNavLinks: true
     display: none !important;
   }
 
-  ```
+```
 
-</details>
+
 })
 
 ### 樣式
