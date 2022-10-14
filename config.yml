@@ -90,6 +90,8 @@ params:
       url: "https://space.bilibili.com/456206301"
     - name: github
       url: "https://github.com/han-han030"
+    - name: discord
+      url: "https://discord.com/user/618432500733313034"
 
   analytics:
     google:
