@@ -1,5 +1,5 @@
-baseURL: "https://han-han030.github.io" #等等GitHub庫的網址
-title: 憨憨很憨憨 #網站標題
+baseURL: "https://han-han030.github.io"
+title: 憨憨很憨憨
 paginate: 5
 defaultContentLanguage: zh-tw
 theme: PaperMod
@@ -9,11 +9,10 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# GooleAnalytics服務，這個之後會再寫到如何設定
+
 googleAnalytics: UA-123-45
 
 
-# 連結配置
 permalinks:
   posts: /:year/:month/:title/
 
@@ -77,10 +76,10 @@ params:
 
   # home-info mode 這是教學使用 Home-info 模式，預設也為這個
   homeInfoParams:
-    Title: "嗨 大家 \U0001F44B"
-    Content: 歡迎來到我的部落格。
+    Title: "嗨嗨嗨嗨嗨 \U0001F44B"
+    Content: 歡迎來到我的Blog。
 
-  # 可以放自己社交平台的連結
+
   socialIcons:
     - name: twitter
       url: "https://twitter.com/Han_Han087"
@@ -106,7 +105,8 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  # 別人可以建議您修改，但我會將這個功能關閉
+ 
+
   #editPost:
     #URL: "https://github.com/<path_to_repo>/content"
     #Text: "Suggest Changes" # edit text
