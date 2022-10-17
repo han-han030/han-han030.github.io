@@ -1,7 +1,7 @@
 ---
 title: "Osu"
 date: 2022-10-17T22:35:13+08:00
-draft: true
+draft: false
 description: 一些直播會用的東西，聊天室、彈幕、插件等等
 tags: ["osu", "工具"]
 author: "明道中學音遊社"
