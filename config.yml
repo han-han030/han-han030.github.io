@@ -29,7 +29,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["https://cdn.discordapp.com/attachments/686922577259528204/1028295457023205376/IMG_3503.jpeg"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -74,7 +74,7 @@ params:
       - name: 標籤
         url: tags
 
-  # home-info mode 這是教學使用 Home-info 模式，預設也為這個
+  # home-info mode 
   homeInfoParams:
     Title: "嗨嗨嗨嗨嗨 \U0001F44B"
     Content: 歡迎來到我的Blog。
