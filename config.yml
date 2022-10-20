@@ -90,7 +90,7 @@ params:
     - name: github
       url: "https://github.com/han-han030"
     - name: discord
-      url: "https://discord.com/user/618432500733313034"
+      url: "https://discordapp.com/users/618432500733313034"
 
   analytics:
     google:
