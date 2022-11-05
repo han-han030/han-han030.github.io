@@ -9,23 +9,14 @@
       <link>https://cdn.discordapp.com/attachments/686922577259528204/1028295457023205376/IMG_3503.jpeg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 17 Oct 2022 22:35:13 +0800</lastBuildDate><atom:link href="https://han-han030.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 00:43:28 +0800</lastBuildDate><atom:link href="https://han-han030.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>osu!</title>
-      <link>https://han-han030.github.io/2022/10/osu/</link>
-      <pubDate>Mon, 17 Oct 2022 22:35:13 +0800</pubDate>
+      <title>如何使用ifttt推播IG通知到Discord?</title>
+      <link>https://han-han030.github.io/2022/11/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8ifttt%E6%8E%A8%E6%92%ADig%E9%80%9A%E7%9F%A5%E5%88%B0discord/</link>
+      <pubDate>Sun, 06 Nov 2022 00:43:28 +0800</pubDate>
       
-      <guid>https://han-han030.github.io/2022/10/osu/</guid>
-      <description>跨平台版的osu!安裝教學</description>
-    </item>
-    
-    <item>
-      <title>直播小工具</title>
-      <link>https://han-han030.github.io/2022/10/%E7%9B%B4%E6%92%AD%E5%B0%8F%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Sat, 08 Oct 2022 21:29:13 +0800</pubDate>
-      
-      <guid>https://han-han030.github.io/2022/10/%E7%9B%B4%E6%92%AD%E5%B0%8F%E5%B7%A5%E5%85%B7/</guid>
-      <description>一些直播會用的東西，聊天室、彈幕、插件等等</description>
+      <guid>https://han-han030.github.io/2022/11/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8ifttt%E6%8E%A8%E6%92%ADig%E9%80%9A%E7%9F%A5%E5%88%B0discord/</guid>
+      <description>使用IFTTT自動推播訊息到Discord</description>
     </item>
     
   </channel>
