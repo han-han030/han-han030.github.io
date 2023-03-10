@@ -2,7 +2,7 @@
 title: "YT＆Twitch會員綁定"
 date: 2023-03-10T20:23:22+08:00
 draft: false
-tags: ["IFTTT", "discord"]
+tags: ["discord"]
 author: "憨憨"
 description: "YT、圖奇會員綁定至Discord"
 cover:
