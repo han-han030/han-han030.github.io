@@ -1,5 +1,5 @@
 ---
-title: "Phish Grabber #1"
+title: "Phish Grabber"
 date: 2022-11-11T21:53:53+08:00
 tags: ["discord bot", "discord", "反釣魚"]
 author: "憨憨"
