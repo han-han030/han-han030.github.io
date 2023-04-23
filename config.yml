@@ -91,6 +91,8 @@ params:
       url: "https://github.com/han-han030"
     - name: discord
       url: "https://discordapp.com/users/618432500733313034"
+    - name: facebook
+      url: "facebook.com/hanhan087"
 
   analytics:
     google:
