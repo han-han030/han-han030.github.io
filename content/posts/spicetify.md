@@ -8,8 +8,6 @@ description: "讓自己的Spotify更有特色"
 cover:
     image: "https://i.imgur.com/oASRCsq.png"
 ---
-> 目錄
-[TOC]
  ![](https://i.imgur.com/oASRCsq.png)
  ![](https://hackmd.io/_uploads/BJxYQfrHh.png)
 ## 什麼是Spicetify
