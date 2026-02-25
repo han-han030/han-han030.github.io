@@ -12,11 +12,9 @@ showToc: false
 TocOpen: false
 hidemeta: false
 comments: true
-description: "一些直播會用的東西，聊天室、彈幕、插件等等"
 #canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

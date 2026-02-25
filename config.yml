@@ -1,5 +1,5 @@
 baseURL: "https://han-han030.github.io"
-title: 憨憨很憨憨
+title: Han Han
 paginate: 5
 defaultContentLanguage: zh-tw
 theme: PaperMod
@@ -22,12 +22,12 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: 憨憨的Blog
-  description: "我懶，不想寫說明"
+  title: Blog
+  description: ""
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["https://cdn.discordapp.com/attachments/686922577259528204/1028295457023205376/IMG_3503.jpeg"]
+  images: ["/images/profile.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
@@ -48,14 +48,10 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://cdn.discordapp.com/attachments/686922577259528204/1028310675040256071/free_to_use_miku_hatsune_icon_by_disqette_d9td8pd.png"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+   # favicon: "https://cdn.discordapp.com/attachments/686922577259528204/1028310675040256071/free_to_use_miku_hatsune_icon_by_disqette_d9td8pd.png"
 
   label:
-    text: "憨憨的Blog"
+    text: "Blog"
     #icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -63,26 +59,26 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Han Han
-    subtitle: "一個蠻菜的影音創作者。"
-    imageUrl: "https://cdn.discordapp.com/attachments/686922577259528204/1028295457023205376/IMG_3503.jpeg"
+    subtitle: "Photographer, Video Creator, Tech Enthusiast <br> 僕らは深い海の底にいる"
+    imageUrl: "/images/profile.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: 文章
+      - name: Posts
         url: posts
-      - name: 標籤
-        url: tags
+      - name: specials
+        url: "https://www.youtube.com/watch?v=FefYJp5PLlo"
 
   # home-info mode 
   homeInfoParams:
     Title: "嗨嗨嗨嗨嗨 \U0001F44B"
-    Content: 歡迎來到我的Blog。
+    Content: Welcome.
 
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/Han_Han087"
+      url: "https://twitter.com/Han87_uwu"
     - name: youtube
       url: "https://www.youtube.com/c/憨憨"
     - name: bilibili
@@ -90,9 +86,9 @@ params:
     - name: github
       url: "https://github.com/han-han030"
     - name: discord
-      url: "https://discordapp.com/users/618432500733313034"
-    - name: facebook
-      url: "https://facebook.com/hanhan087"
+      url: "https://discord.gg/TXSSR28"
+    - name: instagram
+      url: "https://instagram.com/han87.uwu"
 
   analytics:
     google:
