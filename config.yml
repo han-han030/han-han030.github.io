@@ -10,8 +10,6 @@ buildFuture: false
 buildExpired: false
 
 
-googleAnalytics: UA-123-45
-
 
 permalinks:
   posts: /:year/:month/:title/
