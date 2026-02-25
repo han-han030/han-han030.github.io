@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on 憨憨很憨憨</title>
+    <title>Categories on Han Han</title>
     <link>https://han-han030.github.io/categories/</link>
-    <description>Recent content in Categories on 憨憨很憨憨</description>
+    <description>Recent content in Categories on Han Han</description>
     <image>
-      <url>https://cdn.discordapp.com/attachments/686922577259528204/1028295457023205376/IMG_3503.jpeg</url>
-      <link>https://cdn.discordapp.com/attachments/686922577259528204/1028295457023205376/IMG_3503.jpeg</link>
+      <title>Han Han</title>
+      <url>https://han-han030.github.io/images/profile.jpg</url>
+      <link>https://han-han030.github.io/images/profile.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://han-han030.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.156.0</generator>
+    <language>zh-tw</language>
+    <atom:link href="https://han-han030.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,41 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>discord on 憨憨很憨憨</title>
+    <title>Discord on Han Han</title>
     <link>https://han-han030.github.io/tags/discord/</link>
-    <description>Recent content in discord on 憨憨很憨憨</description>
+    <description>Recent content in Discord on Han Han</description>
     <image>
-      <url>https://cdn.discordapp.com/attachments/686922577259528204/1028295457023205376/IMG_3503.jpeg</url>
-      <link>https://cdn.discordapp.com/attachments/686922577259528204/1028295457023205376/IMG_3503.jpeg</link>
+      <title>Han Han</title>
+      <url>https://han-han030.github.io/images/profile.jpg</url>
+      <link>https://han-han030.github.io/images/profile.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Mar 2023 20:23:22 +0800</lastBuildDate><atom:link href="https://han-han030.github.io/tags/discord/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.156.0</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 10 Mar 2023 20:23:22 +0800</lastBuildDate>
+    <atom:link href="https://han-han030.github.io/tags/discord/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>YT＆Twitch會員綁定</title>
       <link>https://han-han030.github.io/2023/03/yttwitch%E6%9C%83%E5%93%A1%E7%B6%81%E5%AE%9A/</link>
       <pubDate>Fri, 10 Mar 2023 20:23:22 +0800</pubDate>
-      
       <guid>https://han-han030.github.io/2023/03/yttwitch%E6%9C%83%E5%93%A1%E7%B6%81%E5%AE%9A/</guid>
       <description>YT、圖奇會員綁定至Discord</description>
     </item>
-    
     <item>
       <title>Phish Grabber</title>
       <link>https://han-han030.github.io/2022/11/phish-grabber/</link>
       <pubDate>Fri, 11 Nov 2022 21:53:53 +0800</pubDate>
-      
       <guid>https://han-han030.github.io/2022/11/phish-grabber/</guid>
       <description>非官方的Phish Grabber教學</description>
     </item>
-    
     <item>
       <title>如何使用ifttt推播IG通知到Discord?</title>
       <link>https://han-han030.github.io/2022/11/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8ifttt%E6%8E%A8%E6%92%ADig%E9%80%9A%E7%9F%A5%E5%88%B0discord/</link>
       <pubDate>Sun, 06 Nov 2022 00:43:28 +0800</pubDate>
-      
       <guid>https://han-han030.github.io/2022/11/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8ifttt%E6%8E%A8%E6%92%ADig%E9%80%9A%E7%9F%A5%E5%88%B0discord/</guid>
       <description>使用IFTTT自動推播訊息到Discord</description>
     </item>
-    
   </channel>
 </rss>
