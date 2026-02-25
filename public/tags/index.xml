@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Han Han</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Han Han</description>
+    <image>
+      <title>Han Han</title>
+      <url>http://localhost:1313/images/profile.jpg</url>
+      <link>http://localhost:1313/images/profile.jpg</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 17 Mar 2023 23:08:46 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spicetify</title>
+      <link>http://localhost:1313/tags/spicetify/</link>
+      <pubDate>Fri, 17 Mar 2023 23:08:46 +0800</pubDate>
+      <guid>http://localhost:1313/tags/spicetify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spotify</title>
+      <link>http://localhost:1313/tags/spotify/</link>
+      <pubDate>Fri, 17 Mar 2023 23:08:46 +0800</pubDate>
+      <guid>http://localhost:1313/tags/spotify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discord</title>
+      <link>http://localhost:1313/tags/discord/</link>
+      <pubDate>Fri, 10 Mar 2023 20:23:22 +0800</pubDate>
+      <guid>http://localhost:1313/tags/discord/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discord Bot</title>
+      <link>http://localhost:1313/tags/discord-bot/</link>
+      <pubDate>Fri, 11 Nov 2022 21:53:53 +0800</pubDate>
+      <guid>http://localhost:1313/tags/discord-bot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>反釣魚</title>
+      <link>http://localhost:1313/tags/%E5%8F%8D%E9%87%A3%E9%AD%9A/</link>
+      <pubDate>Fri, 11 Nov 2022 21:53:53 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%8F%8D%E9%87%A3%E9%AD%9A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IFTTT</title>
+      <link>http://localhost:1313/tags/ifttt/</link>
+      <pubDate>Sun, 06 Nov 2022 00:43:28 +0800</pubDate>
+      <guid>http://localhost:1313/tags/ifttt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Osu</title>
+      <link>http://localhost:1313/tags/osu/</link>
+      <pubDate>Mon, 17 Oct 2022 22:35:13 +0800</pubDate>
+      <guid>http://localhost:1313/tags/osu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>工具</title>
+      <link>http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Mon, 17 Oct 2022 22:35:13 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Obs</title>
+      <link>http://localhost:1313/tags/obs/</link>
+      <pubDate>Sat, 08 Oct 2022 21:29:13 +0800</pubDate>
+      <guid>http://localhost:1313/tags/obs/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
